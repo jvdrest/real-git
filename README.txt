@@ -1,1 +1,1 @@
-Een eerste inhoud in dit bestand.
+De inhoud is gewijzigd door een tweede versie.
